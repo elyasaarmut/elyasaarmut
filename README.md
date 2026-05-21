@@ -1,4 +1,4 @@
-
+[![Portfolio banner](banner/mybanner.png)]()
 
 ## About Me
 
@@ -9,6 +9,7 @@
 * **Focus Areas:** Writing clean, maintainable code and solving algorithmic optimization problems (like G-VRP). 
 
 ## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyasa.armut@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyasa-armut-41b758246/)
+<p>
+  <a href="mailto:elyasa.armut@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/elyasa-armut-41b758246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" /></a>
+</p>
